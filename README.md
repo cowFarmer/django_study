@@ -4,6 +4,15 @@
 ---
 
 ## Error log
+---
+2022.11.21
+- templates/insta_clone/main.html을 만든 후 views.py, urls.py에서 main에 접속했을 때 나오게끔 유도하고 설정을 했는데, 다음과 같은 에러가 발생함.   
+```
+django.template.loaders.app_directories.Loader: /Users/hyeonho/project/insta_clone/venv_insta_clone/lib/python3.9/site-packages/django/contrib/admin/templates/insta_clone/main.html (Source does not exist)
+```
+
+해결하기 위해 search 하고 있음
+---
 2022.11.19
 - zsh -> venv로 가상환경 및 django 설치 후 `django-admin startproject insta_clone` 커맨드 입력시 에러 발생하여 실행이 안됨   
 
