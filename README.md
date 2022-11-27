@@ -1,7 +1,9 @@
 # Django study summary repo
 
-__from development to deployment__
-목표: 장고 웹 프레임워크를 사용해서 개발, AWS를 사용해 배포
+### 개발부터 배포까지   
+- 개발: Django   
+- 배포: AWS
 
-[] jump_to_django
-[] insta_clone
+### TODO
+- [ ] jump_to_django
+- [ ] insta_clone
